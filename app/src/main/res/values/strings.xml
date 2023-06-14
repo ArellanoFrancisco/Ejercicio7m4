@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ejercicio7</string>
+    <string name="description"> Icon </string>
+    <string name="intro">" Welcome to the App"</string>
+</resources>

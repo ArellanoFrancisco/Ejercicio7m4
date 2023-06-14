@@ -1,0 +1,8 @@
+<resources >
+    <style name="Base.Tema.Ejercicio7" parent="Theme.Material3.DayNight.NoActionBar">
+
+        <item name="android:windowBackground">@color/Gray</item>
+
+    </style>
+    <style name="Tema.Ejercicio7" parent="Base.Tema.Ejercicio7"/>
+</resources>
